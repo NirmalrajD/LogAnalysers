@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\LogAnalysers\\LogAnalysers\\LogAnalysers.csproj",
+      "projectUniqueName": "D:\\LogAnalysers\\LogAnalysers\\LogAnalysers.csproj",
       "projectName": "LogAnalysers",
-      "projectPath": "D:\\source\\LogAnalysers\\LogAnalysers\\LogAnalysers.csproj",
+      "projectPath": "D:\\LogAnalysers\\LogAnalysers\\LogAnalysers.csproj",
       "packagesPath": "C:\\Users\\support\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\LogAnalysers\\LogAnalysers\\obj\\",
+      "outputPath": "D:\\LogAnalysers\\LogAnalysers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\support\\AppData\\Roaming\\NuGet\\NuGet.Config",

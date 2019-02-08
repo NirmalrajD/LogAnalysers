@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+}
+.sideMenu{
+    width:20%;
+    height:100vh;
+    display:inline-block;
+    float:left;
+    background: #190b40;   
+}
+.contentTab{
+    width:80%;
+    display:inline-block;
+    padding: 100px 40px;
+    box-sizing: border-box;
+}
+.sideMenu ul{
+    padding:0;
+    margin: 0;
+}
+.sideMenu li {
+    list-style: none;
+    padding: 15px 20px;
+    text-align: center;   
+    font-family: sans-serif;
+    border-right: 8px solid transparent;
+}
+.sideMenu li a{
+    text-decoration:none;
+    font-size: 19px;
+    color:white;
+}
+.brand {
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    background: #817c90;
+    color: #fff;
+    font-size: 40px;
+    border-bottom: 3px solid #fff;
+}
+.sideMenu li.menuList:hover,.sideMenu li.menuList.current {
+    background: #fff;
+    border-color:#817c90;    
+}
+.sideMenu li.menuList:hover a,
+.sideMenu li.menuList.current a{
+    color:#817c90;
+}
