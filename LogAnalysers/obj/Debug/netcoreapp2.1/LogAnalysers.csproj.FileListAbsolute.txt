@@ -12,3 +12,16 @@ D:\source\LogAnalysers\LogAnalysers\bin\Debug\netcoreapp2.1\LogAnalysers.pdb
 D:\source\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.RazorTargetAssemblyInfo.cache
 D:\source\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.dll
 D:\source\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.pdb
+D:\LogAnalysers\LogAnalysers\bin\Debug\netcoreapp2.1\LogAnalysers.deps.json
+D:\LogAnalysers\LogAnalysers\bin\Debug\netcoreapp2.1\LogAnalysers.runtimeconfig.json
+D:\LogAnalysers\LogAnalysers\bin\Debug\netcoreapp2.1\LogAnalysers.runtimeconfig.dev.json
+D:\LogAnalysers\LogAnalysers\bin\Debug\netcoreapp2.1\LogAnalysers.dll
+D:\LogAnalysers\LogAnalysers\bin\Debug\netcoreapp2.1\LogAnalysers.pdb
+D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.csproj.CoreCompileInputs.cache
+D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.RazorAssemblyInfo.cache
+D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.RazorAssemblyInfo.cs
+D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.AssemblyInfoInputs.cache
+D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.AssemblyInfo.cs
+D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.RazorTargetAssemblyInfo.cache
+D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.dll
+D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.pdb
