@@ -1,1 +1,22 @@
-<router-outlet></router-outlet>
+<div class="w100">
+        <div class="sideMenu">
+            <ul>
+                <div class="brandBlock">
+                    <div class="brand">brand</div>
+                </div>
+                <li class="menuList ">
+                    <a class="menuList" routerLink="viewDetails" routerLinkActive="active">
+                        View Logs
+                    </a>
+                </li>
+                <li class="menuList" >
+                    <a class="menuLink" routerLink="uploadLogs" routerLinkActive="active">
+                        Upload Logs
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="contentTab">
+            <router-outlet></router-outlet>
+        </div>
+    </div>

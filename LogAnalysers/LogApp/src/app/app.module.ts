@@ -13,6 +13,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { LayoutComponent } from './layout/layout.component';
 import { ChartsComponent } from './charts/charts.component';
+import { UploadlogsComponent } from './uploadlogs/uploadlogs.component';
 
 
 @NgModule({
@@ -21,6 +22,7 @@ import { ChartsComponent } from './charts/charts.component';
     LogDataTableComponent,
     LayoutComponent,
     ChartsComponent,
+    UploadlogsComponent,
     
   ],
   imports: [

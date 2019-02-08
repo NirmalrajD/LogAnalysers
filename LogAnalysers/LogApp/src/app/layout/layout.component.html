@@ -4,20 +4,21 @@
             <div class="brandBlock">
                 <div class="brand">brand</div>
             </div>
-            <li class="menuList current">
-                <a href="" class="menuLink">
+            <li class="menuList" >
+                <a  class="menuLink" routerLink="viewdetails" routerLinkActive="active">
                     View Logs
                 </a>
             </li>
             <li class="menuList">
-                <a href="" class="menuLink">
+                <a class="menuLink" routerLink="uploadLogs" routerLinkActive="active">
                     Upload Logs
                 </a>
             </li>
         </ul>
     </div>
     <div class="contentTab">
-        <app-log-data-table></app-log-data-table>
+        <router-outlet>        
+        </router-outlet>
     </div>
 </div>
 
