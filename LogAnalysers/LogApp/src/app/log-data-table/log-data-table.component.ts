@@ -17,7 +17,7 @@ export class LogDataTableComponent implements OnInit {
   constructor() {
     // Create 100 users
     const users = Array.from({length: 100}, (_, k) => createNewUser(k + 1));
-    console.log(users)
+    // console.log(users)
     // Assign the data to the data source for the table to render
     this.dataSource = new MatTableDataSource(users);
   }
