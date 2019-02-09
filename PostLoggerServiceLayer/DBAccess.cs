@@ -4,15 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using System.IO;
+using System.Net;
+
 namespace PostLoggerServiceLayer
 {
-    class DBAccess
+    public class DBAccess
     {
         public DBAccess() { }
 
         public void PostData()
         {
             
+
         }
 
     }
@@ -27,6 +31,9 @@ namespace PostLoggerServiceLayer
         public long EventId { get; set; }
     }
 
+
+
+
     public class EventLogging
     {
         public long EventId { get; set; }
@@ -36,4 +43,6 @@ namespace PostLoggerServiceLayer
     }
 
 }
+
+
 

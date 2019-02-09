@@ -17,6 +17,7 @@ D:\LogAnalysers\LogAnalysers\bin\Debug\netcoreapp2.1\LogAnalysers.runtimeconfig.
 D:\LogAnalysers\LogAnalysers\bin\Debug\netcoreapp2.1\LogAnalysers.runtimeconfig.dev.json
 D:\LogAnalysers\LogAnalysers\bin\Debug\netcoreapp2.1\LogAnalysers.dll
 D:\LogAnalysers\LogAnalysers\bin\Debug\netcoreapp2.1\LogAnalysers.pdb
+D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.csprojAssemblyReference.cache
 D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.csproj.CoreCompileInputs.cache
 D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.RazorAssemblyInfo.cache
 D:\LogAnalysers\LogAnalysers\obj\Debug\netcoreapp2.1\LogAnalysers.RazorAssemblyInfo.cs
